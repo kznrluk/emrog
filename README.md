@@ -18,6 +18,9 @@
 
 ![](./100ten.png)
 
+`:arigatou:`
+
+![](./arigatou.png)
 
 ### 絵文字メモ
 
