@@ -26,6 +26,10 @@
 
 ![](./arigatougozaimasu.png)
 
+`:arigatougozai_masu:`
+![](./arigatougozai_masu.png)
+
+
 ### 絵文字メモ
 
 パブリックでない気に入った絵文字のメモ
