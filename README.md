@@ -27,6 +27,7 @@
 ![](./arigatougozaimasu.png)
 
 `:arigatougozai_masu:`
+
 ![](./arigatougozai_masu.png)
 
 
