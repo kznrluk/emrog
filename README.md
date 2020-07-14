@@ -2,33 +2,16 @@
 
 作成した絵文字をCC0で公開しています。
 
-`:kusa_grow:`
-
-![](./kusa_grow.png)
-
-`:sumi:`
-
-![](./sumi.png)
-
-`:0ten:`
-
-![](./0ten.png)
-
-`:100ten:`
-
-![](./100ten.png)
-
-`:arigatou:`
-
-![](./arigatou.png)
-
-`:arigatougozaimasu:`
-
-![](./arigatougozaimasu.png)
-
-`:arigatougozai_masu:`
-
-![](./arigatougozai_masu.png)
+|    |    |
+| ---- | ---- |
+|  `:kusa_grow:`  |  `:sumi:`  |
+|  ![](./kusa_grow.png)  |  ![](./sumi.png)  |
+|  `:0ten:`  |  `:100ten:`  |
+|  ![](./0ten.png)  |  ![](./100ten.png)  |
+|  `:arigatou:`  |  `:arigatougozaimasu:`  |
+|  ![](./arigatou.png)  |  ![](./arigatougozaimasu.png)  |
+|  `:arigatougozai_masu:`  |  ``  |
+|  ![](./arigatougozai_masu.png)  |    |
 
 
 ### 絵文字メモ
