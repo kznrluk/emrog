@@ -10,8 +10,8 @@
 |  ![](./0ten.png)  |  ![](./100ten.png)  |
 |  `:arigatou:`  |  `:arigatougozaimasu:`  |
 |  ![](./arigatou.png)  |  ![](./arigatougozaimasu.png)  |
-|  `:arigatougozai_masu:`  |  ``  |
-|  ![](./arigatougozai_masu.png)  |    |
+|  `:arigatougozai_masu:`  |  `:ryou:`  |
+|  ![](./arigatougozai_masu.png)  |  ![](./ryou.png)  |
 
 
 ### 絵文字メモ
