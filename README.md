@@ -12,6 +12,8 @@
 |  ![](./arigatou.png)  |  ![](./arigatougozaimasu.png)  |
 |  `:arigatougozai_masu:`  |  `:ryou:`  |
 |  ![](./arigatougozai_masu.png)  |  ![](./ryou.png)  |
+|  `:okemaru:`  |  `::`  |
+|  ![](./okemaru.png)  |    |
 
 
 ### 絵文字メモ
